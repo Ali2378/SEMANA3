@@ -12,6 +12,7 @@ namespace EJERCICIO1
         {
             Console.Write("BIENVENIDO A MADAGASCAR");
             Console.Write("BIENVENIDO A MADAGASCAR");
+            Console.Write("BIENVENIDO A MADAGASCAR");
             Console.ReadKey();
         }
     }
