@@ -10,7 +10,8 @@ namespace EJERCICIO1
     {
         static void Main(string[] args)
         {
-            Console.Write("HOLA PENDEJO");
+            Console.Write("BIENVENIDO A MADAGASCAR");
+            Console.Write("BIENVENIDO A MADAGASCAR");
             Console.ReadKey();
         }
     }
